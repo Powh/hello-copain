@@ -1,2 +1,2 @@
 # hello-copain
-un repertoire
+ceci est une révolution
